@@ -1,0 +1,10 @@
+{
+  "appName": "AgriAssist",
+  "welcomeMessage": "Welcome to AgriAssist",
+  "weatherForecast": "Weather Forecast",
+  "cropGuide": "Crop Guide",
+  "diseaseDetector": "Disease Detector",
+  "marketPrices": "Market Prices",
+  "login": "Login",
+  "register": "Register"
+}

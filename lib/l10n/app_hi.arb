@@ -1,0 +1,10 @@
+{
+  "appName": "एग्रीअसिस्ट",
+  "welcomeMessage": "एग्रीअसिस्ट में आपका स्वागत है",
+  "weatherForecast": "मौसम पूर्वानुमान",
+  "cropGuide": "फसल गाइड",
+  "diseaseDetector": "रोग डिटेक्टर",
+  "marketPrices": "बाजार मूल्य",
+  "login": "लॉगिन",
+  "register": "रजिस्टर"
+}
