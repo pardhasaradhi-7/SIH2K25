@@ -1,9 +1,8 @@
-import 'dart:math';
-
 class AIService {
-  Future<String> detectDisease(String imagePath) async {
-    await Future.delayed(const Duration(seconds: 2));
-    List<String> diseases = ['Leaf Blight', 'Powdery Mildew', 'Rust Fungus', 'Healthy Plant'];
-    return diseases[Random().nextInt(diseases.length)];
+  // Example function to detect plant disease
+  Future<String> diagnosePlantDisease(String imagePath) async {
+    // Call your AI model API
+    await Future.delayed(Duration(seconds: 2));
+    return 'Healthy'; // or 'Disease detected'
   }
 }
